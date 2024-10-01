@@ -1,5 +1,5 @@
 
-###🛡️🤖 PHONEX AI 🤖⚔️###
+<H1>🛡️🤖 PHONEX AI 🤖⚔️</H1>
 
 🌌 Technologies Utilized
 
