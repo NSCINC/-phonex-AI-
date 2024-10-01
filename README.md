@@ -80,4 +80,4 @@ PHONEX AI stands at the forefront of HoloFi technology, offering a robust platfo
 
 <p>**FOUNDER: LUCAS JANAURIO DO NASCIMENTO**</p>
 
-<img src="Z.JPEG" alt="Holo Ether Logo"
+<img src="Z.JPEG" alt="Holo Ether Logo" />
